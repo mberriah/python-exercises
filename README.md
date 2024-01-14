@@ -3,7 +3,7 @@ List of exercices to improve my knowledge of python.
 
 ## Table of Content
 
-1. Simple instructions
+1. ("Simple instructions")[https://github.com/mberriah/python-exercises/tree/main/01-simple-instructions]
 2. Conditional instructions
 3. Repetitive instructions
 4. Functions
