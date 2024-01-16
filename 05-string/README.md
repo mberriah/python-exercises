@@ -12,4 +12,7 @@ Write a script that copies a string (into a new variable) by inverting it.
 For example, "zorglub" becomes "bulgroz".  
 [Answer](https://github.com/mberriah/python-exercises/blob/main/05-string/ex05-03.py) 
 
+## Exercise 4  
+Write a script that determines whether a given character string is a palindrome.  
+[Answer](https://github.com/mberriah/python-exercises/blob/main/05-string/ex05-04.py) 
 
