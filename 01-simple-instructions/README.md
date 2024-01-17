@@ -18,3 +18,7 @@ Write a program that calculates the interest earned each year for 20 years by ca
 ## Exercise 5  
 Write a program that converts a given integer number of seconds into a number of years, months, days, minutes and seconds.  
 [Answer](./ex01-05.py) 
+
+## Exercise 6
+Write a program that converts a user-supplied speed in miles/hour into meters per second and km/h. (Remember: 1 mile = 1609 meters).  
+[Answer](./ex01-06.py)
