@@ -39,3 +39,7 @@ Write a program that displays the following sequence of symbols:
 \******  
 \*******  
 [Answer](./ex03-06.py)  
+
+## Exercise 7
+Write a program loop that asks the user to enter student grades. The loop will end only if the user enters a negative value. Using the grades entered gradually build a list. Each time a new mark is entered (and therefore each iteration of the loop), display the number of notes entered, the highest note, the lowest note the lowest note, and the average of all the notes.  
+[Answer](./ex03-07.py)
