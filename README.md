@@ -14,3 +14,4 @@ List of exercices to improve my knowledge of python.
 1. [Dictionary](https://github.com/mberriah/python-exercises/tree/main/dictionary)
 1. [Classe and object](https://github.com/mberriah/python-exercises/tree/main/classe-and-object)
 1. [File handling](https://github.com/mberriah/python-exercises/tree/main/file-handeling)
+1. [Exceptions and errors handling](https://github.com/mberriah/python-exercises/tree/main/exceptions-and-errors-handeling)
