@@ -26,5 +26,17 @@ Write a program that opens the file **file.txt** and transfers all the lines to 
 Create a function **filter** designed to copy a text  from **src.txt** to **dst.txt** file, omitting all lines beginning with a **#** character.  
 [Answer](./ex07.py)  
 
+## Exercise 8
+Write a script that makes it easy to create and read back a text file. Your program will first ask the user to enter the name of the file. Then it will the choice of either recording new lines of text or displaying the contents of the file. file.  
+The user should be able to enter successive lines of text simply by using the key to separate them. To end the entries, simply enter an empty line (i.e. use the 'Enter' key alone).  
+The display of the contents should show the lines of the file separated from each other in the most natural way. natural way (end-of-line codes should not appear).  
+[Answer](./ex08.py)
 
+## Exercise 9
+Write a script that automatically generates a text file containing the multiplication tables from multiplication tables from 2 to 30 (each of which includes only 20 terms).  
+[Answer](./ex09.py)
+
+## Exercise 10
+Write a script that copies a text file, tripling all the spaces between words.  
+[Answer](./ex10.py)
 
