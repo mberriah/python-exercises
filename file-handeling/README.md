@@ -40,3 +40,13 @@ Write a script that automatically generates a text file containing the multiplic
 Write a script that copies a text file, tripling all the spaces between words.  
 [Answer](./ex10.py)
 
+## Exercise 11
+Write a script that compares the contents of two files and reports the first difference
+encountered.  
+[Answer](./ex11.py)
+
+## Exercise 12
+From two pre-existing files A and B, build a file C that contains an element from A, an element from B, an element from A... and so on until you reach the end of one of the the end of one of the two original files. Then complete C with the elements
+remaining in the other.  
+[Answer](./ex12.py)
+
