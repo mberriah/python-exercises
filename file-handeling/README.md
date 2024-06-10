@@ -50,3 +50,56 @@ From two pre-existing files A and B, build a file C that contains an element fro
 remaining in the other.  
 [Answer](./ex12.py)
 
+## Exercise 13
+Write a script that makes it easy to create and reread a text file.   
+Your program will first ask the user to enter the name of the file.  
+It will then the propose the choice of either recording new lines of text, or displaying the contents of the file.  
+The user should be able to enter successive lines of text, simply by using the `Enter` key to separate them from each other. To complete the entries, the user simply needs to enter an empty line (i.e. use the `Enter` key alone).  
+The content display should show the lines of the file separated from each other in the most natural way. natural way (end-of-line codes should not appear).
+
+[Answer](./ex13.py)
+
+## Exercice 14
+Write a script that automatically generates a text file containing the multiplication tables from 2 to 30 (each including 20 terms only).
+
+[Answer](./ex14.py)
+
+## Exercise 15
+Write a script to copy a text file, tripling all the spaces between words.
+
+[Answer](./ex15.py)
+
+## Exercise 16
+You have at your disposal a text file, each line of which represents a real numerical value (without exponents). 
+For example :
+```
+14.896
+7894.6
+123.278
+etc.
+```
+Write a script to copy these values to another file, rounding them off to integers numbers (rounding must be correct).
+
+[Answer](./ex16.py)
+
+## Exercise 17
+Write a script that compares the contents of two files and reports the first difference
+encountered.
+
+[Answer](./ex17.py)
+
+## Exercise 18
+Starting from two pre-existing files A and B, build a file C that contains alternately an element of A, an element of B, an element of A... and so on, until you reach the end of one of the reach the end of one of the two original files. Then complete C with the elements remaining in the other.
+
+[Answer](./ex18.py)
+
+## Exercise 19
+Write a script to encode a text file whose lines will each contain first names, addresses, zip codes and telephone numbers of different people (consider, for example members of a club).
+
+[Answer](./19.py)
+
+## Exercise 20
+you now have a file containing file containing the contact details of a number of people. Write a script extract from this file the lines corresponding to a specific zip code.
+
+[Answer](./20.py)
+
